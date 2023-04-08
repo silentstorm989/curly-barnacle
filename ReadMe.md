@@ -1,0 +1,1 @@
+Diablo II LOD version 13. My personal configuration.
