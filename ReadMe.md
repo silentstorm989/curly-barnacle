@@ -1,1 +1,1 @@
-Diablo II LOD version 13c. My personal configuration.
+Diablo II LOD version 13d. My personal configuration.
